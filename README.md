@@ -1,4 +1,4 @@
 # ML
 MachineLearning
 
-Repo contains Machine Learning Course exercises
+Repository contains Machine Learning Course exercises
